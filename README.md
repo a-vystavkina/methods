@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/krtoxf7apvknehux?svg=true)](https://ci.appveyor.com/project/a-vystavkina/classes-inheritance)
+[![Build status](https://ci.appveyor.com/api/projects/status/glofyr20t40qa491?svg=true)](https://ci.appveyor.com/project/a-vystavkina/methods)
